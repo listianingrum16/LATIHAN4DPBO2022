@@ -1,6 +1,6 @@
 # LATIHAN4DPBO2022
 
-### Saya Listia Ningrum NIM 2008084 mengerjakan Latihan 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
+Saya Listia Ningrum NIM 2008084 mengerjakan Latihan 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
 
 ## Design 
 ![Design](https://user-images.githubusercontent.com/95666745/156907004-57bf2b47-b3d3-435a-aff0-58936aea1654.png)
