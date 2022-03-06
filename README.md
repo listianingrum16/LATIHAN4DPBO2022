@@ -4,6 +4,10 @@ Saya Listia Ningrum NIM 2008084 mengerjakan Latihan 4 dalam mata kuliah DPBO unt
 
 ## Design 
 ![Design](https://user-images.githubusercontent.com/95666745/156907004-57bf2b47-b3d3-435a-aff0-58936aea1654.png)
+Desain dari program ini yaitu terdapat 6 kelas yang diberi nama class person, class job, class driver, class vehicles, class ship, dan class airplane. 
+Class person, job, dan driver menggunakan konsep multilevel inheritance dimana class person adalah parent untuk class job, sedangkan class job merupakan parent untuk class driver. Ketiga class tersebut memiliki hubungan pewarisan dimana driver merupakan bagian dari job dan job merupakan bagian dari person.
+Class lainnya seperti class vehicles, ship, dan airplane menggunakan konsep hierarchical inheritance dimana class parent memiliki banyak class anak. Dalam kasus ini class vehicles merupakan parent untuk class ship dan class airplane. 
+Dalam program ini akan dimasukan total 30 data dummy menggunakan method setter yang mana masing - masing kelas memiliki 5 data dummy. Semua data dummy tersebut akan ditampilkan ke layar menggunakan method getter. Di bawah ini merupakan output dari program yang telah dibuat. 
 
 ## Output
 ![Class Person](https://user-images.githubusercontent.com/95666745/156907031-fac0f9aa-ec85-4ad3-b992-1b0116d69c72.png) <br></br>
